@@ -1,0 +1,79 @@
+.container {
+  margin-left: 300px;
+  margin-top: 10px;
+  height: 650px;
+  width: 700px;
+}
+
+.data {
+  margin-left: 50px;
+  margin-top: 10px;
+  background-color: rgb(172, 221, 226);
+}
+
+.input {
+  height: 80px;
+  width: 650px;
+  border: 2px solid rgb(255, 0, 0);
+}
+
+.slection {
+  margin-top: 10px;
+}
+
+.button {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+.header {
+  margin-left: 50px;
+  height: 80px;
+  width: 650px;
+  text-align: center;
+  color: white;
+  background-color: blue;
+  border: 2px solid rgb(209, 13, 13);
+}
+
+.selectioField {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  width: 650px;
+  border: 2px solid rgb(255, 94, 0);
+}
+
+.output {
+  margin-left: 150px;
+}
+
+.list {
+  margin-top: 10px;
+  height: 150px;
+  width: 650px;
+  border: 2px solid rgb(255, 0, 21);
+}
+
+.total {
+  margin-top: 10px;
+  height: 100px;
+  width: 650px;
+  border: 2px solid rgb(255, 0, 0);
+  display: flex;
+}
+
+.table,
+td {
+  padding: 25px;
+  border: 1px solid black;
+}
+.footer {
+  margin-top: 10px;
+  height: 20px;
+  width: 650px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
